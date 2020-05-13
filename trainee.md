@@ -9,11 +9,11 @@ O trainee tem como responsabilidade a busca de aprendizado e experiência práti
 - Conceitos básicos de lógica de programação;
 - Conceitos básicos de HTML;
 
-# Desejável
+## Desejável
 
 - Conhecimentos básicos da sintaxe PHP;
 
-# Perfil esperado
+## Perfil esperado
 
 - Sedento por conhecimento ao extremo (sempre pesquisando e perguntando);
 - Bom relacionamento com os colegas;

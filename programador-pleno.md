@@ -6,7 +6,7 @@ Desenvolvedor com experiência um pouco mais consolidada no desenvolvimento de s
 
 ## Requisitos
 
-- Todas as do Programador PHP Junior, porém com maior desenvoltura (qualidade, produtividade e autonomia);
+- Todas as do Programador PHP Junior II, porém com maior desenvoltura (qualidade, produtividade e autonomia);
 - Domina os diagramas de classe e sequência da UML;
 - Conhecimento mais aprofundado sobre o protocolo HTTP
 	- Utilização correta dos métodos (ao menos OPTIONS, GET, POST, PUT e DELETE);

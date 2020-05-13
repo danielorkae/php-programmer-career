@@ -1,8 +1,10 @@
-CarreiraPHP
+Carreira de Programador PHP Rits
 ===========
 
-Sugestões de descrição de carreiras e cargos
-- [Estagiário](EstagiarioProgramacao.md)
-- [Programador Junior](ProgramadorJunior.md)
-- [Programador Pleno](ProgramadorPleno.md)
-- [Programador Senior](ProgramadorSenior.md)
+Descrição de carreiras e cargos para programador PHP na Rits Tecnologia.
+- [Trainee](trainee.md)
+- [Programador Junior](programador-junior.md)
+- [Programador Pleno](programador-pleno.md)
+- [Programador Senior](programador-senior.md)
+
+As descrições seguem as recomendações da [Associação Brasileira de PHP](https://github.com/abraphp/CarreiraPHP).
